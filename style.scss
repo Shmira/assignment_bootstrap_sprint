@@ -1,0 +1,56 @@
+/*******Nav*********/
+
+.navbar {
+    background-color: #2f2f2f;
+    border-radius: 0;
+    a {
+        color: #b2b2b2;
+        margin-top: 12px;
+        font-size: 120%;
+        text-decoration: none;
+    }
+    a:link,
+    a:visted {
+        color:#b2b2b2;
+    }
+    a:hover,
+    a:active {
+        color:#fdfdfd;
+    }
+    input {
+        margin-right: 5px;
+    }
+    input,
+    button {
+        margin-top: 7px;
+    }
+}
+
+/******header********/
+
+.head {
+    background-color: #eaeaea;
+    padding: 65px 0;
+    margin-top:-20px;
+    h1 {
+        font-size:450%;
+    }
+}
+
+/*******main**********/
+
+.main {
+    article {
+        margin-top: 30px;
+    }
+}
+
+/********foot********/
+
+.foot {
+    border-top: 1px solid #c6c6c6;
+    margin-top: 30px;
+    p {
+        margin-top: 10px;
+    }
+}

@@ -1,0 +1,41 @@
+/*******Nav*********/
+.navbar {
+  background-color: #2f2f2f;
+  border-radius: 0; }
+  .navbar a {
+    color: #b2b2b2;
+    margin-top: 12px;
+    font-size: 120%;
+    text-decoration: none; }
+  .navbar a:link,
+  .navbar a:visted {
+    color: #b2b2b2; }
+  .navbar a:hover,
+  .navbar a:active {
+    color: #fdfdfd; }
+  .navbar input {
+    margin-right: 5px; }
+  .navbar input,
+  .navbar button {
+    margin-top: 7px; }
+
+/******header********/
+.head {
+  background-color: #eaeaea;
+  padding: 65px 0;
+  margin-top: -20px; }
+  .head h1 {
+    font-size: 450%; }
+
+/*******main**********/
+.main article {
+  margin-top: 30px; }
+
+/********foot********/
+.foot {
+  border-top: 1px solid #c6c6c6;
+  margin-top: 30px; }
+  .foot p {
+    margin-top: 10px; }
+
+/*# sourceMappingURL=style.css.map */
